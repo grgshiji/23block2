@@ -1,0 +1,20 @@
+{
+  "blockId": "oJptd5sQoEDmQFHnFjasD",
+  "name": "23block2_member",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/23block2.git",
+    "ssh": "git@github.com:grgshiji/23block2.git",
+    "branch": "block_23block2_member"
+  },
+  "parentBlockIDs": [
+    "YIZYVja6pj2ECh82aZ-vq"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
