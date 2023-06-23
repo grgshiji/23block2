@@ -1,1 +1,16 @@
-{"name":"23block2","type":"package","blockId":"YIZYVja6pj2ECh82aZ-vq","source":{"https":null,"ssh":null,"branch":"block_23block2"},"parentBlockIDs":[],"isPublic":true,"supportedAppblockVersions":["1.0.0"],"repoType":"mono"}
+{
+  "name": "23block2",
+  "type": "package",
+  "blockId": "YIZYVja6pj2ECh82aZ-vq",
+  "source": {
+    "https": "https://github.com/grgshiji/23block2.git",
+    "ssh": "git@github.com:grgshiji/23block2.git",
+    "branch": "block_23block2"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
